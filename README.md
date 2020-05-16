@@ -20,6 +20,9 @@ A group project involving the creation of a Game called "Polytris".
 - Use of the Gantt software in order to properly schedule project goals.
 - Proper Project Presentation
 
+# Original Polytris GITLAB link:
+https://gitlab.cas.mcmaster.ca/sranm4/polytris/-/tree/dev
+
 # HEXTRIS Link:
 - Game: https://hextris.io/
 - Repository: https://github.com/Hextris/hextris
