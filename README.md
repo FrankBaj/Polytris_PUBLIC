@@ -22,7 +22,7 @@ A group project involving the creation of a Game called "Polytris".
 
 # Original POLYTRIS Gitlab link:
 - The original GITLAB repository where our group made the project is accessible through this link: https://gitlab.cas.mcmaster.ca/sranm4/polytris/-/tree/dev
-- The reason why I made these separate repositories is, firstly, to make accessing the files for myself easier, and secondly, to keep the files safe just in case something happens to the original repository.
+- The reason why I made these separate repositories on GITHUB is, firstly, to make accessing the files for myself easier, and secondly, to keep the files safe just in case something happens to the original repository.
 
 # The original HEXTRIS game link:
 - Game: https://hextris.io/
